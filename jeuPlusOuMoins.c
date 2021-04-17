@@ -69,7 +69,7 @@ int main()
         scanf("%d", &nombreMystere);
         printf("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoueur 2, ");
     /* comme je ne sais pas encore cacher ce que l'utlisateur ecrit ou faire comme sur un terminale un test&clear, je met
-    plein de retour a la ligne pour pas que le joeur 2 voit ce que joeur un a ecrit. */
+    plein de retour a la ligne pour pas que le joeur 2 voit ce que joeur 1 a ecrit. */
     }
  
     while(nombreMystere != nombreEntre)
