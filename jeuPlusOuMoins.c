@@ -56,7 +56,7 @@ if(choixMenu == 1)
 if(choixMenu == 2)
 {
  
-    printf("Joueur 1 , rentre le nombre mystere\n");
+    printf("Joueur 1, entre le nombre mystere\n");
     scanf("%d", &nombreMystere);
     printf("Joueur 2, ");
  
